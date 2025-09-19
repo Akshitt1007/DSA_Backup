@@ -57,6 +57,16 @@ package o_Binary_Tree;
 
         - In order to overcome this Limitation
         - we have "SELF BALANCE BINARY TREE"
+
+    Implementation:
+
+        There are two ways to implement a Binary Tree:
+
+        1. By Node like Linked List
+
+        2. Sequential way (Using Array) -> This is less effective since there can be null value which will leave empty spaces in the array
+                                           This will be using in algorithm like Heaps etc.
+                                           and Complete Binary Tree.
  */
 
 
